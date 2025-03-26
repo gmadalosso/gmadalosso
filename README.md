@@ -2,7 +2,6 @@
 
 I'm a passionate software developer from Brazil, currently working at **Metadados** as an **Associate Software Developer** on the **R&D team**.
 
----
 
 ## 💼 What I Work With
 
@@ -11,14 +10,14 @@ I’m currently focused on:
 - **SQL Server**
 - Developing and maintaining features for enterprise **payroll systems**
 
----
 
 ## ✍️ Personal Blog
 
 I write about the technologies I’m exploring and the personal projects I’m building.
-Check it out: [gmadalosso.hashnode.dev](https://gmadalosso.hashnode.dev/)
+Check it out: 
 
----
+👉 [gmadalosso.hashnode.dev](https://gmadalosso.hashnode.dev/)
+
 
 ## 📚 Certifications & Learning
 
@@ -27,7 +26,6 @@ I maintain a full archive of all my certifications and online courses here:
 
 👉 [**Certifications Archive**](https://github.com/gmadalosso/certifications-archive)
 
----
 
 ## ✨ Fun Facts
 
