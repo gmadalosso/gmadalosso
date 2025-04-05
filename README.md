@@ -30,7 +30,4 @@ I maintain a full archive of all my certifications and online courses here:
 
 ## ✨ Fun Facts
 
-- I enjoy working out and ran my first 5K last year 🏃
-- I enjoy **painting and drawing** in my free time 🎨
-- And by the way, I made my own **pixel art profile picture** — people often think it’s AI-generated or an NFT, but it’s not 🧑‍🎨
-- I’m currently learning **Italian** 🇮🇹 (+200 days streak on Duolingo)
+- I made my own **pixel art profile picture** — people often think it’s AI-generated or an NFT, but it’s not 🧑‍🎨
