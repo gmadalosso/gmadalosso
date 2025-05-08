@@ -2,16 +2,6 @@
 
 I'm a passionate software developer from Brazil, currently working at **Metadados** as an **Fullstack Software Developer** on the **R&D team**.
 
-
-## 💼 What I Work With
-
-I’m currently focused on:
-- **C#** / **.NET**
-- **ExtJS**
-- **SQL Server**
-- Developing and maintaining features for enterprise **payroll systems**
-
-
 ## ✍️ Personal Blog
 
 I write about the technologies I’m exploring and the personal projects I’m building.
