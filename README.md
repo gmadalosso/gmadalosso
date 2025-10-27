@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm a passionate software developer from Brazil, currently working at **Metadados** as an **Fullstack Software Developer** on the **R&D team**.
+I'm a passionate software developer from Brazil.
 
 ## ✍️ Personal Blog
 
