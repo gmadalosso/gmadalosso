@@ -20,4 +20,4 @@ I maintain a full archive of all my certifications and online courses here:
 
 ## ✨ Fun Facts
 
-- I made my own **pixel art profile picture** — people often think it’s AI-generated or an NFT, but it’s not 🧑‍🎨
+- I made my own **pixel art profile picture**. People often think it’s AI-generated or an NFT, but it’s not 🧑‍🎨
